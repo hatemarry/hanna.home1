@@ -89,11 +89,11 @@ a {
 }
 
 .board_list .num {
-    width: 10%;
+    width: 15%;
 }
 
 .board_list .title {
-    width: 60%;
+    width: 40%;
     text-align: left;
 }
 
@@ -102,15 +102,15 @@ a {
 }
 
 .board_list .writer {
-    width: 10%;
+    width: 15%;
 }
 
 .board_list .date {
-    width: 10%;
+    width: 15%;
 }
 
 .board_list .count {
-    width: 10%;
+    width: 15%;
 }
 
 .board_page {
